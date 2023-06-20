@@ -3,8 +3,8 @@
 <h3 align="center">A passionate Backend developer from India</h3>
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...  
+- 🔭 I’m currently working on GraphQL and Nest.js
+- 🌱 I’m currently learning Docker and devops things  
 - 💬 Ask me about backend development
 - 📫 Reach me: hsupare313@gmail.com
 - 😄 Pronouns: its.Him 
