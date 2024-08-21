@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Himanshu Supare</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
 
 - 🔭 I’m currently working on GraphQL and Nest.js
